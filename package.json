@@ -1,0 +1,14 @@
+{
+  "name": "elbow-path-solver",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "react-cosmos": "^7.0.0",
+    "react-cosmos-plugin-vite": "^7.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
